@@ -1,5 +1,13 @@
 # React Project for the React Course
 
+## Intro
+This is a simple school dashboard application built with React.js and Bootstrap, intended as a basic example of how to create a responsive web app with these technologies. It includes a sidebar navigation component and a main content area with a few sample cards displaying information about teachers and courses. The app is fully responsive and adapts to different screen sizes using Bootstrap's grid system and utility classes. The source code is available on GitHub and can be used as a starting point for more complex projects or as a reference for best practices and coding patterns.
+
+## Some screenshots, as usual
+<img width="1280" alt="Снимок экрана 2023-04-08 в 22 57 55" src="https://user-images.githubusercontent.com/95095531/230740340-72688662-e03e-4bd3-805f-4b81f51b50f9.png">
+<img width="1280" alt="Снимок экрана 2023-04-08 в 22 58 07" src="https://user-images.githubusercontent.com/95095531/230740343-1e476319-9bef-45ce-be35-7f627f8db7ee.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
