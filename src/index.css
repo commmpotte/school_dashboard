@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* body {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  background-color: #112d49;
+} */
+@media (max-width: 992px) {
+  .avatar {
+    height: 100px;
+    width: 100px;
+  }
+}
+
+@media (min-width: 993px) {
+  .avatar {
+    height: 200px;
+    width: 200px;
+  }
+}
