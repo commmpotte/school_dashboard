@@ -8,13 +8,13 @@ import NotFound from './NotFound'
 const Content = () => {
   return (
     <Routes>
-      <Route path="/" element={<Profile />}>
+      <Route path="/" element={<Profile />}/>
         <Route path="/news" element={<News />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/schedule" element={<Schedule />} />
         <Route path="/students" element={<Students />} />
         <Route path="*" element={<NotFound />} />
-      </Route>
+
     </Routes>
   )
 }
