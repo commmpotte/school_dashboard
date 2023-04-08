@@ -1,4 +1,4 @@
-# School Test Dadshboard
+# School Test Dashboard
 
 ## Intro
 This is a simple school dashboard application built with React.js and Bootstrap, intended as a basic example of how to create a responsive web app with these technologies. It includes a sidebar navigation component and a main content area with a few sample cards displaying information about teachers and courses. The app is fully responsive and adapts to different screen sizes using Bootstrap's grid system and utility classes. The source code is available on GitHub and can be used as a starting point for more complex projects or as a reference for best practices and coding patterns.
